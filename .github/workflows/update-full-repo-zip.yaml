@@ -1,8 +1,6 @@
 name: Update Full Repository Zip
 
 on:
-  push:
-    branches: ['main']
   workflow_dispatch:
 
 jobs:

@@ -2,9 +2,6 @@ name: Test pip install requirements
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
